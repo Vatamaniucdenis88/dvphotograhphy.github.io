@@ -1,0 +1,13 @@
+.container {display: flex;
+width: 80% 
+}
+.nav-item { font-size: 130%;
+}
+.containertrei { display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+}
+.card{ width: 20%; }
+
+.btn  {display: flex;
+justify-content: center;}
